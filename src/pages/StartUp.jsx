@@ -45,7 +45,7 @@ const StartUp = () => {
         <div className="flex items-center justify-between mb-8">
           <div className="flex justify-start mb-5">
             <img
-              src={logo}
+              src={""}
               alt=""
               className="w-24 h-auto rounded-full"
             />
@@ -113,6 +113,7 @@ const StartUp = () => {
 };
 
 export default StartUp;
+
 
 
 
